@@ -1,0 +1,19 @@
+.consigna{
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    align-content: flex-start;
+    
+}
+.text{
+    padding: 30px;
+    width: 600px;
+    background: #fff;
+    height: 700px;
+    display: grid;
+  
+}
+ h3{
+    color: #1C6EA4;
+    margin: 10px 0;
+ }

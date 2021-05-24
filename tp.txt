@@ -1,0 +1,5 @@
+tarea ENTREGA EL 4 
+crear un texto que trate de los temas 
+cada uno de temas globales y espesificos el mismo tiene que tener un hilo 
+de conexio no deve haver un copi paste en el que demuestre lo aprendido 
+

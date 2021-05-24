@@ -1,0 +1,51 @@
+.contProfe{
+   
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+   grid-template-areas: "from datos";
+
+}
+.form{
+        grid-area: from;
+        margin-right:20px ;
+
+}
+.form .mensaje{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+}
+.cont_datos{
+    grid-area: datos;
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 5px;
+    width: 600px;
+    height: 550px;
+    display: grid;
+
+    grid-template-rows: 200px 200px;
+    background: #fff
+}
+.datos{
+    justify-self: start;
+    padding-left: 8px;
+}
+.datos p{
+    color: rgb(66, 66, 66);
+    font-weight: 500;
+    line-height:40px
+    
+}
+.cont_datos h3{
+    justify-self: center;
+    align-self: center;
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    
+}
